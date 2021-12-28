@@ -1,0 +1,14 @@
+{
+    "skins":{
+        "Down": "false"
+    },
+    "backblings":{
+        "Down": "True"
+    },
+    "pickaxes": {
+        "Down": "false"
+    },
+    "emotes":{
+        "Down": "True"
+    }
+}

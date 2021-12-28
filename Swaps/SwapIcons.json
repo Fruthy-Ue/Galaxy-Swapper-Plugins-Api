@@ -1,0 +1,46 @@
+{
+    "Skins": {
+        "Recruit - Ramirez": "https://fortnite-api.com/images/cosmetics/br/CID_001_Athena_Commando_F_Default/icon.png",
+        "Recruit - Banshee": "https://fortnite-api.com/images/cosmetics/br/CID_002_Athena_Commando_F_Default/icon.png",
+        "Recruit - Headhunter": "https://fortnite-api.com/images/cosmetics/br/CID_003_Athena_Commando_F_Default/icon.png",
+        "Recruit - Wildcat": "https://fortnite-api.com/images/cosmetics/br/CID_004_Athena_Commando_F_Default/icon.png",
+        "Recruit - Jonesy": "https://fortnite-api.com/images/cosmetics/br/CID_005_Athena_Commando_M_Default/icon.png",
+        "Recruit - Spitfire": "https://fortnite-api.com/images/cosmetics/br/CID_006_Athena_Commando_M_Default/icon.png",
+        "Recruit - Hawk": "https://fortnite-api.com/images/cosmetics/br/CID_007_Athena_Commando_M_Default/icon.png",
+        "Recruit - Renegade": "https://fortnite-api.com/images/cosmetics/br/CID_008_Athena_Commando_M_Default/icon.png",
+        "Tracker": "https://fortnite-api.com/images/cosmetics/br/CID_009_Athena_Commando_M/icon.png",
+        "Ranger": "https://fortnite-api.com/images/cosmetics/br/CID_010_Athena_Commando_M/icon.png",
+        "Siren": "https://fortnite-api.com/images/cosmetics/br/CID_748_Athena_Commando_F_Hitman/icon.png",
+        "Isabelle": "https://fortnite-api.com/images/cosmetics/br/CID_A_042_Athena_Commando_F_Scholar/icon.png",
+        "Krisabelle": "https://fortnite-api.com/images/cosmetics/br/CID_A_310_Athena_Commando_F_ScholarFestive/icon.png",
+        "Pitstop": "https://fortnite-api.com/images/cosmetics/br/CID_828_Athena_Commando_F_Valet/icon.png",
+        "GingerbreadRaider": "https://fortnite-api.com/images/cosmetics/br/CID_970_Athena_Commando_F_RenegadeRaiderHoliday/icon.png",
+        "JenniferWalters": "https://fortnite-api.com/images/cosmetics/br/CID_842_Athena_Commando_F_HightowerHoneydew/icon.png",
+        "ChaosAgent": "https://fortnite-api.com/images/cosmetics/br/CID_598_Athena_Commando_M_Mastermind/icon.png",
+        "Tigeress": "https://fortnite-api.com/images/cosmetics/br/CID_683_Athena_Commando_F_TigerFashion/icon.png",
+        "RubyShadows": "https://fortnite-api.com/images/cosmetics/br/CID_A_007_Athena_Commando_F_StreetFashionEclipse/icon.png",
+        "SpiderMan(NoWayHome)": "https://fortnite-api.com/images/cosmetics/br/CID_A_316_Athena_Commando_M_Lateral_K8XD9/icon.png",
+        "ModenaIcon": "https://fortnite-api.com/images/cosmetics/br/CID_A_138_Athena_Commando_F_Foray_YQPB0/icon.png",
+        "Permafrost Raider": "https://fortnite-api.com/images/cosmetics/br/CID_A_322_Athena_Commando_F_RenegadeRaiderIce/icon.png",
+        "Renegade Raider": "https://fortnite-api.com/images/cosmetics/br/CID_028_Athena_Commando_F/icon.png",
+        "Blizzabelle": "https://fortnite-api.com/images/cosmetics/br/CID_A_311_Athena_Commando_F_ScholarFestiveWinter/icon.png",
+        "Haven": "https://fortnite-api.com/images/cosmetics/br/CID_A_291_Athena_Commando_F_IslandNomad/icon.png",
+        "Ruby Shadows": "https://fortnite-api.com/images/cosmetics/br/CID_A_291_Athena_Commando_F_IslandNomad/icon.png",
+        "Surf Witch": "https://fortnite-api.com/images/cosmetics/br/CID_805_Athena_Commando_F_PunkDevilSummer/icon.png",
+        "Dark Wild Card": "https://fortnite-api.com/images/cosmetics/br/CID_511_Athena_Commando_M_CubePaintWildCard/icon.png",
+        "Renegade Raider (Chechered)": "https://cdn.discordapp.com/attachments/919978810215125039/925458382851297300/CheckersMadam.png"
+    },
+    "Pickaxes": {
+        "Combat Knife": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_542_TyphoonFemale1H_CTEVQ/icon.png",
+        "Blade of the Waning Moon": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_715_LoneWolfMale/icon.png",
+        "Leviathan Axe": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_508_HistorianMale_6BQSW/icon.png",
+        "Butcher Cleaver": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_721_RustyBoltSliceMale_V3A4N/icon.png",
+        "Beastfang": "https://fortnite-api.com/images/cosmetics/br/Pickaxe_ID_513_ShapeshifterFemale1H/icon.png"
+    },
+    "Backblings": {
+        "Empty": ""
+    },
+    "Emotes": {
+        "Empty": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Main": {
+        "Discord":"https://discord.gg/cXBf3QNhTQ",
+        "Patchnotes":"Empty",
+        "Downtime": {
+            "Down":"false",
+            "Message":"The GSP Program Is Currently Offline As Of Right Now. Check The Discord For More Information On This Issue."
+        }
+    },
+    "Images": {
+        "Tabs": {
+            "SkinsIcon":"https://cdn.discordapp.com/attachments/919978810215125039/923689644653166602/Skins.png",
+            "PickaxesIcon":"https://cdn.discordapp.com/attachments/919978810215125039/923689643977879583/Pickaxe.png",
+            "BackblingsIcon":"https://cdn.discordapp.com/attachments/919978810215125039/923689645638823956/Backpack.png",
+            "EmotesIcon":"https://cdn.discordapp.com/attachments/919978810215125039/923689648386097222/Emotes.png",
+            "SettingsIcon":"https://cdn.discordapp.com/attachments/919978810215125039/923689644346986516/Settings.png",
+            "DashboardIcon":"https://cdn.discordapp.com/attachments/919978810215125039/923689647060713472/Dashboard.png",
+            "MiscIcon":"https://cdn.discordapp.com/attachments/919978810215125039/923689643659108402/Misc.png"
+        }
+    }
+}
