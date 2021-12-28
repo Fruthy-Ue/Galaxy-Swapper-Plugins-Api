@@ -5,7 +5,8 @@
         "Downtime": {
             "Down":"false",
             "Message":"The GSP Program Is Currently Offline As Of Right Now. Check The Discord For More Information On This Issue."
-        }
+        },
+        "Version": "1.4"
     },
     "Images": {
         "Tabs": {
