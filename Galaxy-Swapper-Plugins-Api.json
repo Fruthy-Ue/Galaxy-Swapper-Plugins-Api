@@ -15,7 +15,8 @@
             "EmotesIcon":"https://cdn.discordapp.com/attachments/919978810215125039/923689648386097222/Emotes.png",
             "SettingsIcon":"https://cdn.discordapp.com/attachments/919978810215125039/923689644346986516/Settings.png",
             "DashboardIcon":"https://cdn.discordapp.com/attachments/919978810215125039/923689647060713472/Dashboard.png",
-            "MiscIcon":"https://cdn.discordapp.com/attachments/919978810215125039/923689643659108402/Misc.png"
+            "MiscIcon":"https://cdn.discordapp.com/attachments/919978810215125039/923689643659108402/Misc.png",
+            "Logo": "https://cdn.discordapp.com/attachments/919978810215125039/925560306946682930/New_Project-modified.png"
         }
     },
     "Version": "1.4"
