@@ -1,11 +1,13 @@
 {
     "Names": {
-        "Name1": "Megsoe#1055",
-        "Name2": "Wslt#7904"
+        "Name1": "Plps#1055",
+        "Name2": "Wslt#7904",
+        "Name3": "Fruthy#8999"
     },
     "Descriptions": {
         "Description1": "Plugin Maker, Coder, \nAPI Coder",
-        "Description2": "Galaxy Swapper Owner, \nUI Designer, Icon Maker"
+        "Description2": "Galaxy Swapper Owner, \nUI Designer, Icon Maker",
+        "Description3": "Plugin Maker, Co-Owner Of GSP"
     },
     "CreditLinks": {
         "Link1": "https://discord.gg/galaxyswapper",
@@ -13,6 +15,7 @@
     },
     "CreditsImages":{ 
         "Credit1": "https://cdn.discordapp.com/attachments/919978810215125039/925567210632642570/6808e68aa41857b9d5fc1ca438baed0b-modified.png",
-        "Credit2": "https://cdn.discordapp.com/attachments/919978810215125039/926576733812043796/1b9af4a2202645936cd07705553b738c-modified.png"
+        "Credit2": "https://cdn.discordapp.com/attachments/919978810215125039/926576733812043796/1b9af4a2202645936cd07705553b738c-modified.png",
+        "Credit3": "https://cdn.discordapp.com/attachments/923013123865186344/926653065648566342/301f6cba920f4c78facabbaf609643f5.png"
     }
 }
