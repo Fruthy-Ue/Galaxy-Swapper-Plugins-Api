@@ -1,9 +1,9 @@
 {
     "Main": {
         "Discord":"https://discord.gg/cXBf3QNhTQ",
-        "Patchnotes":"Added Tony Stark To Spider-Man (No Way Home) MASKED\nAdded PermaFrost Raider To Mogul Master\nAdded PermaFrost Raider To Mogul Master (CAN)\nAdded PermaFrost Raider To Mogul Master (CHN)\nAdded PermaFrost Raider To Mogul Master (CBR)\nAllot More Coming Soon!",
+        "Patchnotes":"Added Install Path For Plugins!",
         "Downtime": {
-            "Down":"true",
+            "Down":"false",
             "Message":"GSP is currently offline for now. I dont know if im still gonna be doing this project ive been hired for another project recently and its gonna take up allot of my time GSP will be back up soon - Plps#1055"
         }
     },
