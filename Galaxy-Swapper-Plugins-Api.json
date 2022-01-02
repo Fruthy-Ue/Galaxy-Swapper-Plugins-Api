@@ -3,7 +3,7 @@
         "Discord":"https://discord.gg/cXBf3QNhTQ",
         "Patchnotes":"Added Install Path For Plugins!",
         "Downtime": {
-            "Down":"true",
+            "Down":"false",
             "Message":"Currently The LSP Program Is Offline We Are Switching To A New Swapper For Plugins Check The Discord For More Information!"
         }
     },
