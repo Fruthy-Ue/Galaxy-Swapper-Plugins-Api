@@ -1,7 +1,11 @@
-{
-    "Swaps":[
-        {
-            "Icon": "https://fortnite-api.com/images/cosmetics/br/CID_005_Athena_Commando_M_Default/icon.png"
-        }
-    ]
-}
+[
+    {
+        "Icon": "https://fortnite-api.com/images/cosmetics/br/CID_005_Athena_Commando_M_Default/icon.png"
+    },
+    {
+        "Icon": "https://fortnite-api.com/images/cosmetics/br/CID_005_Athena_Commando_M_Default/icon.png"
+    },
+    {
+        "Icon": "https://fortnite-api.com/images/cosmetics/br/CID_005_Athena_Commando_M_Default/icon.png"
+    }
+]
